@@ -1,0 +1,26 @@
+{
+
+"English":{
+"title":"Download TikTok Video",
+"description":"",
+"placeholder":"Just insert a link",
+"buttonText":"Download",
+"err":"Something Went Wrong"
+},
+"Tamil":{
+"title":"TikTok வீடியோவைப் பதிவிறக்கவும்",
+"description":"",
+"placeholder":"ஒரு இணைப்பைச் செருகவும்",
+"buttonText":"பதிவிறக்க Tamil",
+"err":"ஏதோ தவறு நடந்துவிட்டது"
+},
+"Hindi":{
+"title":"टिकटॉक वीडियो डाउनलोड करें",
+"description":"",
+"placeholder":"बस एक लिंक डालें",
+"buttonText":"डाउनलोड करना",
+"err":"कुछ गलत हो गया"
+}
+
+
+}
